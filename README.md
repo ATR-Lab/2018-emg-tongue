@@ -1,2 +1,2 @@
-# 2018-unet-emg-tongue
+# emg-tongue
 EMG-based tongue gesture detection
